@@ -6,6 +6,9 @@ var buttonElement = document.querySelector('#app button');
 var todos = [
   'Fazer o cafe',
   'Organizar espaço de estudo',
+  'Organizar tempo para estudo',
+  'Reajustar agendas',
+  'Sincronizar datas',
   'Programar'
 ];
 
